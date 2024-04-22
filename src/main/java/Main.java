@@ -8,6 +8,7 @@ public class Main {
     }
     void test3(){
         System.out.println("drugoeSlovo");
+        System.out.println("slovo");
     }
 
 }
