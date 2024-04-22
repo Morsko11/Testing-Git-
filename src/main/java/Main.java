@@ -14,6 +14,14 @@ public class Main {
     void master(){
         System.out.println("Master");
     }
+
+    void cherryPick(){
+
+    }
+    void gitHubMetod(){
+
+        System.out.println("Master");
+    }
 }
 
 
