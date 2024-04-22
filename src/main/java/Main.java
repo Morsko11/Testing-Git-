@@ -2,12 +2,14 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello");
     }
-    void test(){
+
+    void test() {
         System.out.println("Test");
     }
-    void help(){
-        int x;
-        System.out.println("help");
-
+    void test1() {
+        System.out.println("Test");
     }
 }
+
+
+
