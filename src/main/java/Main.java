@@ -6,9 +6,7 @@ public class Main {
     void test() {
         System.out.println("Test");
     }
-    void test1() {
-        System.out.println("Test");
-    }
+
 }
 
 

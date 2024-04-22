@@ -4,13 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12b88618-8b54-4ecb-9f22-5d6d4b3171b0" name="Changes" comment="" />
+    <list default="true" id="12b88618-8b54-4ecb-9f22-5d6d4b3171b0" name="Changes" comment="test1 create" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
   <component name="ProjectId" id="2fRueJRpcoVSdJnYyHzN6oc7CbH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,9 +32,21 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MaxxPC\Desktop\COde\GitTest\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,7 +55,107 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713776307097</updated>
+      <workItem from="1713776308093" duration="867000" />
     </task>
+    <task id="LOCAL-00001" summary="Пустой main и pom">
+      <option name="closed" value="true" />
+      <created>1713776461600</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713776461601</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Все файлы и sout Hello">
+      <option name="closed" value="true" />
+      <created>1713776503140</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713776503140</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Создал метод test">
+      <option name="closed" value="true" />
+      <created>1713776527244</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713776527244</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Добавил sout в метод тест">
+      <option name="closed" value="true" />
+      <created>1713776546809</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713776546809</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Комит test и все файлы">
+      <option name="closed" value="true" />
+      <created>1713776642854</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713776642854</updated>
+    </task>
+    <task id="LOCAL-00006" summary="метод Help">
+      <option name="closed" value="true" />
+      <created>1713776698003</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713776698003</updated>
+    </task>
+    <task id="LOCAL-00007" summary="создал x в методе help">
+      <option name="closed" value="true" />
+      <created>1713776726062</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1713776726062</updated>
+    </task>
+    <task id="LOCAL-00008" summary="qwrfwqfasfasf">
+      <option name="closed" value="true" />
+      <created>1713776938881</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1713776938881</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test1 create">
+      <option name="closed" value="true" />
+      <created>1713776988613</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713776988613</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Пустой main и pom" />
+    <MESSAGE value="Все файлы и sout Hello" />
+    <MESSAGE value="Создал метод test" />
+    <MESSAGE value="Добавил sout в метод тест" />
+    <MESSAGE value="Комит test и все файлы" />
+    <MESSAGE value="метод Help" />
+    <MESSAGE value="создал x в методе help" />
+    <MESSAGE value="qwrfwqfasfasf" />
+    <MESSAGE value="test1 create" />
+    <option name="LAST_COMMIT_MESSAGE" value="test1 create" />
   </component>
 </project>
