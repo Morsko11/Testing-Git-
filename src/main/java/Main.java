@@ -17,6 +17,8 @@ public class Main {
     int x;
     String s;
     Double v;
+
+    Integer integer;
 }
 
 
