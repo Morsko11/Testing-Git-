@@ -6,6 +6,8 @@ public class Main {
         System.out.println("Test");
     }
     void help(){
+        int x;
         System.out.println("help");
+
     }
 }
