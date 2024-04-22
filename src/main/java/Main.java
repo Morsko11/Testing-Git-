@@ -4,7 +4,7 @@ public class Main {
     }
 
     void test() {
-        System.out.println("Test");
+
     }
     void test3(){
         System.out.println("drugoeSlovo");
