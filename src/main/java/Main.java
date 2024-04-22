@@ -14,6 +14,10 @@ public class Main {
     void master(){
         System.out.println("Master");
     }
+    int x;
+    String s;
+
+    Double v;
 }
 
 
