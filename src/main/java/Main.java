@@ -15,6 +15,7 @@ public class Main {
         System.out.println("Master");
     }
     int x;
+    String s;
 }
 
 
