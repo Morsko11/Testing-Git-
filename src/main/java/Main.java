@@ -12,7 +12,7 @@ public class Main {
     }
 
     void master(){
-        System.out.println("Masterr");
+        System.out.println("Master");
     }
 }
 
