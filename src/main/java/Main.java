@@ -3,17 +3,7 @@ public class Main {
         System.out.println("Hello");
     }
 
-    void test() {
-        test3();
-    }
-    void test3(){
-        System.out.println("drugoeSlovo");
-        System.out.println("slovo");
-    }
 
-    void master(){
-        System.out.println("Masterr");
-    }
 }
 
 
