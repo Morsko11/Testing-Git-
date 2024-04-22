@@ -6,6 +6,7 @@ public class Main {
     void test() {
         System.out.println("Test");
     }
+    void test3(){}
 
 }
 
