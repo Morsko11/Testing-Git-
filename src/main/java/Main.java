@@ -19,6 +19,7 @@ public class Main {
     Double v;
 
     Integer integer;
+    String string;
 }
 
 
