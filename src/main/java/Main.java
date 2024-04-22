@@ -5,4 +5,7 @@ public class Main {
     void test(){
         System.out.println("Test");
     }
+    void help(){
+        System.out.println("help");
+    }
 }
