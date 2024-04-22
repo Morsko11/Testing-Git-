@@ -14,6 +14,10 @@ public class Main {
     void master(){
         System.out.println("Master");
     }
+
+    void cherryPick(){
+
+    }
 }
 
 
