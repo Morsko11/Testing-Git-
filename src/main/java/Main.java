@@ -20,6 +20,8 @@ public class Main {
 
     Integer integer;
     String string;
+
+    int a = 4;
 }
 
 
