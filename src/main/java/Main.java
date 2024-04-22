@@ -19,16 +19,12 @@ public class Main {
 
     }
 
-    void cherryPick(){
-
-    }
     void gitHubMetod(){
 
         System.out.println("Master");
     }
-    void gitHubMetod(){
 
-    }
+    int x;
 }
 
 
