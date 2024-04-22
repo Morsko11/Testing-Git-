@@ -11,7 +11,7 @@ public class Main {
     }
 
     void master(){
-
+        System.out.println("Masterr");
     }
 }
 
